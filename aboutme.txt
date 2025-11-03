@@ -1,0 +1,4 @@
+My hobbies.
+
+Hobbies: Football, Coding, Gaming, Cooking, Watching Movies.
+Skills: Visual Basic, Java, Java Script.
